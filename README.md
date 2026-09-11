@@ -1,7 +1,3 @@
-1. เปิด GitHub Repo
-2. กด "Add a README" (ปุ่มสีเขียวในภาพก่อนหน้า)
-3. วางเนื้อหา:
-
 # CIM_DB-QWin — CIMD Lab
 
 ## Project Overview
